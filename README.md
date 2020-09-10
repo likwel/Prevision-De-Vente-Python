@@ -1,2 +1,2 @@
 # Prevision-De-Vente-Python
-Prevision de vente est un platforme de prediction, d'estimation des données statistiques. Elle est developpée en Python basée sur des algorithmes de Machine Learning en utilisant le module Scikit-Learn.
+La prévision De Vente (PDV) est une platforme de prédiction, d'éstimation des données statistiques. Elle est développée en Python basée sur des algorithmes de Machine Learning en utilisant le module Scikit-Learn.
